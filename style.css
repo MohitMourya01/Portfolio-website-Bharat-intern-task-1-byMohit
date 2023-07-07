@@ -192,7 +192,7 @@ img{
 }
 /* style for hero section */
 #hero{
-    background-image: url('img1.avif');
+    background-image: url('./image/img1.avif');
     background-size: cover;
     /* background-position: top center; */
     position: relative;
@@ -292,7 +292,7 @@ img{
         flex-direction: column;
         padding: 30px;
         border-radius: 10px;
-        background-image: url('img-1.png');
+        background-image: url('./image/img-1.png');
         background-size: cover;
         z-index: 1;
         position: relative;
